@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Authorization",
+    "\\Entities",
+    "\\Helpers",
+    "\\Migrations",
+    "\\Migrations\\SqliteMigrations",
+    "\\Models",
+    "\\Models\\Users",
+    "\\Properties",
+    "\\Services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
